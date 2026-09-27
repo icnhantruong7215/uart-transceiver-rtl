@@ -1,0 +1,16 @@
+# Simulation output
+*.vcd
+*.fst
+*_sim
+*.out
+
+# Temporary files
+*.log
+*.tmp
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
