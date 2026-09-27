@@ -1,7 +1,5 @@
 # Simulation output
-*.vcd
 *.fst
-*_sim
 *.out
 
 # Temporary files
